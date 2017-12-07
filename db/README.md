@@ -1,4 +1,4 @@
-editablegrid-mysql-example
+editablegrid-mysql admin page for mobile phone's operator parser
 ==========================
 
 This example shows how to use EditableGrid with a MySQL database
