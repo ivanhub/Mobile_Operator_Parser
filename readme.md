@@ -1,6 +1,6 @@
-# Парсер сотовых номеров  -  для определения принадлежности номера к Оператору.
+# Парсер номеров телефонов  -  для определения принадлежности номера к Оператору.
 # Данные сохраняются в БД
 #
 #
-# Russian mobile phone number parser - to know operator's affiliation
+# Russian phone number parser - to know operator's affiliation
 #
