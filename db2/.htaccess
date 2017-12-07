@@ -1,0 +1,13 @@
+#AllowOverride All
+#AuthType Basic
+#AuthName "My Protected Area"
+#AuthBasicProvider    file
+#AuthUserFile /home/spb8hot/public_html/samara-db/.htpasswd
+#Require valid-user
+
+<IfModule mod_autoindex.c>
+  # «апрещаем просмотр содержимого папок
+Options -Indexes
+Require all denied
+require ip x.x.x.x
+</IfModule>
